@@ -28,3 +28,7 @@ INSERT INTO INTERESTS (STUDENT_ID, INTEREST) VALUES
     (2, 'Football'),
     (1, 'Chemistry'),
     (3, 'Chess');
+    
+-- Display final tables
+SELECT * FROM STUDENTS;
+SELECT * FROM INTERESTS;
